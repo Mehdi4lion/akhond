@@ -1,0 +1,10 @@
+clear
+apt install python -y
+apt install openssh -y
+apt install mpv -y
+apt install fish -y
+apt install figlet -y
+apt install curl -y
+pip install colorama
+clear
+figlet PersianElite
